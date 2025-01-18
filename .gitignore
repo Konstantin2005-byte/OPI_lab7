@@ -1,0 +1,7 @@
+# Игнорирование системных файлов и директорий
+*.log
+.idea/
+.vscode/
+node_modules/
+AppData/
+.bash_history
